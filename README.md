@@ -1,9 +1,13 @@
-#Índice
+# Índice
 
 [Projeto - CadEcommerce](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#projeto-cadecommerce)
+
 [Descrição](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#descri%C3%A7%C3%A3o)
+
 [Funcionalidades](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#funcionalidades)
+
 [Estrutura do Projeto](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#estrutura-do-projeto)
+
 [Exemplos de Uso dos Métodos](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#exemplo-de-uso-dos-m%C3%A9todos)
 
 
@@ -35,13 +39,21 @@ Monitoramento e alertas de níveis de estoque.
 A seguir estão os arquivos PHP principais do projeto, juntamente com uma breve descrição de cada um:
 
 **carrinho.php:** Gerencia o carrinho de compras dos usuários.
+
 **categoria.php:** Gerencia as categorias de produtos.
+
 **index.php:** Página inicial da aplicação.
+
 **insere-categoria.php:** Script para inserção de novas categorias.
+
 **insere-marca.php:** Script para inserção de novas marcas.
+
 **insere-produto.php:** cript para inserção de novos produtos.
+
 **marca.ph:** Gerencia as marcas de produtos.
+
 **pedido.php:** Gerencia os pedidos realizados pelos clientes.
+
 **produto.php:** Gerencia os produtos disponíveis na loja.
 
 # Exemplo de Uso dos Métodos
@@ -220,11 +232,15 @@ mysqli_close($mysqli);
 ?>
 ```
 ## Resumo
-* Carrinho.php: Exibe produtos no carrinho usando controller/carrinho-busca.php.
-* Categoria.php: Formulário HTML para cadastrar categorias.
-insere-categoria.php: Insere uma nova categoria no banco de dados.
-* insere-marca.php: Insere uma nova marca no banco de dados.
-* insere-produto.php: Insere um novo produto no banco de dados.
+**Carrinho.php:** Exibe produtos no carrinho usando controller/carrinho-busca.php.
+
+**Categoria.php:** Formulário HTML para cadastrar categorias.
+
+**insere-categoria.php:** Insere uma nova categoria no banco de dados.
+
+**insere-marca.php:** Insere uma nova marca no banco de dados.
+
+**insere-produto.php:** Insere um novo produto no banco de dados.
 
 
 
