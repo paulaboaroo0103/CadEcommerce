@@ -1,25 +1,39 @@
-# Índice
+# Índice 🔗
 
-[Projeto - CadEcommerce](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#projeto-cadecommerce)
+[Projeto - CadEcommerce](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#projeto-cadecommerce) 🛒
 
-[Descrição](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#descri%C3%A7%C3%A3o)
+[Gerenciamento de Dados](https://github.com/paulaboaroo0103/CadEcommerce/edit/main/README.md#gerenciamento-de-dados-) 🎲
 
-[Funcionalidades](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#funcionalidades)
+[Descrição](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#descri%C3%A7%C3%A3o) 📝
 
-[Estrutura do Projeto](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#estrutura-do-projeto)
+[Funcionalidades](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#funcionalidades) ⚙️
 
-[Exemplos de Uso dos Métodos](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#exemplo-de-uso-dos-m%C3%A9todos)
+[Estrutura do Projeto](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#estrutura-do-projeto) ✏️
+
+[Exemplos de Uso dos Métodos](https://github.com/paulaboaroo0103/CadEcommerce?tab=readme-ov-file#exemplo-de-uso-dos-m%C3%A9todos) 🤖
+
+[Fontes](https://github.com/paulaboaroo0103/CadEcommerce/edit/main/README.md#fontes-) 🔗
+
+[Autora](https://github.com/paulaboaroo0103/CadEcommerce/edit/main/README.md#autora-) 👩🏽
 
 
-# Projeto CadEcommerce
-![img](imagem/cadecomerce%20.png).
+# Projeto CadEcommerce 🛒
+![image](https://github.com/user-attachments/assets/dfd44af7-ef67-453e-a6bf-be76c49a42db)
 
-## Descrição
+
+# Gerenciamento de Dados 🎲
+![image](https://github.com/user-attachments/assets/49dd4566-791f-492c-b90e-c7b1370d0f7f)
+
+
+## Descrição 📝
 Este repositório contém o código fonte de uma aplicação e-commerce desenvolvida em PHP. A aplicação permite o gerenciamento de produtos, categorias, marcas e pedidos. O objetivo é fornecer uma solução completa para lojas online, incluindo a funcionalidade de carrinho de compras.
 
-## Funcionalidades
+## Funcionalidades ⚙️
 
 1. **Gerenciamento de Produtos,Categorias e marcas**
+
+![image](https://github.com/user-attachments/assets/c4870090-03c4-4140-aa42-9c9d39e1f076)
+
 * Adicionar, editar, remover e listar produtos.
 
 2. **Carrinho de Compras**
@@ -34,7 +48,7 @@ Buscar produtos por nome ou descrição e filtrar por categoria, marca, preço, 
 5. **Gestão de Estoque**
 Monitoramento e alertas de níveis de estoque.
 
-# Estrutura do Projeto
+# Estrutura do Projeto ✏️
 
 A seguir estão os arquivos PHP principais do projeto, juntamente com uma breve descrição de cada um:
 
@@ -56,7 +70,7 @@ A seguir estão os arquivos PHP principais do projeto, juntamente com uma breve 
 
 **produto.php:** Gerencia os produtos disponíveis na loja.
 
-# Exemplo de Uso dos Métodos
+# Exemplo de Uso dos Métodos 🤖
 
 ### Carrinho.php
 Este arquivo HTML representa a página de carrinho de compras e inclui um arquivo PHP responsável por buscar e exibir os produtos no carrinho.
@@ -242,7 +256,20 @@ mysqli_close($mysqli);
 
 **insere-produto.php:** Insere um novo produto no banco de dados.
 
+# Fontes 🔗
+https://www.ruby-lang.org/pt/documentation/quickstart/3/
 
+https://github.com/paulaboaroo0103/CadastroE-Commerce
+
+https://www.google.com/search?gs_ssp=eJzj4tTP1TcwMU02T1JgNGB0YPBiS8_PT89JBQBASQXT&q=google&rlz=1C1GCEU_pt-BRBR1096BR1096&oq=goo&gs_lcrp=EgZjaHJvbWUqEwgCEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTIMCAEQIxgnGIAEGIoFMhMIAhAuGIMBGMcBGLEDGNEDGIAEMg0IAxAAGIMBGLEDGIAEMg0IBBAAGIMBGLEDGIAEMg0IBRAAGIMBGLEDGIAEMgYIBhBFGDwyBggHEEUYPNIBCDQ5MTRqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+
+## Autora 👩🏽
+| [<img loading="lazy" src="https://user-images.githubusercontent.com/127847275/272244520-740a7042-aefd-42c6-ad38-536121527e4b.png" width=95><br><sub>Paula Boaro</sub>](https://github.com/paulaboaroo0103) 
+| :---: |
+
+### Colaborador:
+|  [<img loading="lazy" src="https://user-images.githubusercontent.com/86802310/268408790-48baaee3-ce37-4ad6-9348-ecb738990343.png" width=95><br><sub>Leonardo Rocha </sub>](https://github.com/leonardorochamarista)
+| :---: |
 
 
 
